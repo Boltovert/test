@@ -70,11 +70,12 @@ instance/
 
 # Sphinx documentation
 docs/_build/
-
+.idea/
 # PyBuilder
 .pybuilder/
 target/
-
+normalized_dates.csv
+test_data.csv
 # Jupyter Notebook
 .ipynb_checkpoints
 
